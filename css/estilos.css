@@ -39,3 +39,6 @@ section#contacto form#contactForm .form-group-textarea textarea {
     border-radius: 0.25rem;
     margin-top: 3rem;
 }
+.footer a{
+    text-decoration: none;
+}
