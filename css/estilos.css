@@ -44,6 +44,6 @@ section#contacto form#contactForm .form-group-textarea textarea {
     border: 1px solid rgba(0, 0, 0, 0.125);
     border-radius: 0.25rem;
 }
-.footer a{
+footer a{
     text-decoration: none;
 }
