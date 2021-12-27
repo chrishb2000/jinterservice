@@ -30,6 +30,9 @@ section#contacto form#contactForm .form-group-textarea textarea {
 .mt-n4 {
     margin-top: -1.5rem !important;
 }
+.pt-lg-0 {
+    padding-top: 0 !important;
+}
 .card {
     position: relative;
     display: flex;
