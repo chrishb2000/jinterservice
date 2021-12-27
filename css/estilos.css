@@ -1,0 +1,21 @@
+.carousel-inner{
+    max-height: 39rem;
+}
+.logotipo{
+    height: 3rem;
+}
+.texto-shadow{
+    text-shadow: 2px 2px 8px #333;
+}
+.oscurecer-img{
+    filter: brightness(50%);
+  }
+.team-member img {
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+section#contacto form#contactForm .form-group-textarea textarea {
+    height: 100%;
+    min-height: 9rem;
+}
