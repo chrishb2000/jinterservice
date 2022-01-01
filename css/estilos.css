@@ -71,3 +71,23 @@ footer a{
 .scroll-to-top i {
   font-weight: 800;
 }
+
+@media (max-width:460px){
+    .col.text-end {
+        align-self: center;
+    }
+    span.fw-bold {
+        font-weight: 500 !important;
+        font-size: 13px;
+    }
+    span.h5.border.border-secondary.rounded-pill.p-2 {
+        font-size: 13px;
+    }
+    p.h2.texto-shadow {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    h2.display-3.fw-bold.texto-shadow {
+        font-size: 22px;
+    }
+}
