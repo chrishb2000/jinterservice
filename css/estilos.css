@@ -47,6 +47,34 @@ section#contacto form#contactForm .form-group-textarea textarea {
 footer a{
     text-decoration: none;
 }
+button.btn-whatsapp {
+    background: #46c655;
+    border: 0;
+    height: 30px;
+    padding: 0 10px;
+    color: white;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.btn-whatsapp2 {
+       display:block;
+	   width:50px;
+       height:50px;
+       color:#fff;
+       position: fixed;
+       right:20px;
+       bottom:20px;
+       border-radius:50%;
+	   line-height:60px;
+       text-align:center;
+       z-index:999;
+}
+.img-whatsapp2{
+	width: 50px;
+	height: 50px;
+}
+
 .scroll-to-top {
   position: fixed;
   right: 15px;
